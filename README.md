@@ -1,4 +1,4 @@
-# PDFtitleRenamer  
+# PDFFileRenamer  
 Rename pdf file name to article title.  
   
 ![sample.gif](https://github.com/T3aHat/PDFtitleRenamer/blob/master/image/sample.gif)
